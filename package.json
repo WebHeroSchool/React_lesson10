@@ -1,0 +1,13 @@
+{
+  "name": "lesson10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "mkdir build",
+    "del": "rmdir build",
+    "say": "echo Hello!"
+  },
+  "author": "",
+  "license": "ISC"
+}
